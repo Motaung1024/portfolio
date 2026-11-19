@@ -98,6 +98,8 @@ h1 {
 .btn:hover { transform: translateY(-1px); border-color: var(--amber); }
 .btn-primary { background: var(--amber); color: #120d02; border-color: var(--amber); font-weight: 700; }
 .btn-primary:hover { background: #ffc233; }
+.btn-accent { color: var(--amber); border-color: var(--amber); font-weight: 700; }
+.btn-accent:hover { background: rgba(255, 176, 0, .1); }
 
 /* Terminal */
 .terminal {
